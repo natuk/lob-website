@@ -29,6 +29,7 @@
         "drupal/entityconnect": "^2.0@RC",
         "drupal/eu_cookie_compliance": "^1.27",
         "drupal/feeds": "^3.0@RC",
+        "drupal/field_permissions": "^1.4",
         "drupal/filefield_paths": "^1.0@beta",
         "drupal/inline_entity_form": "^1.0@RC",
         "drupal/jquery_ui": "^1.7",
